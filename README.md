@@ -7,13 +7,7 @@
 //"antd": "^4.2.5",
 //"antd-etable": "^1.3.44",
 //"moment": "^2.26.0"
-
 ## Online Demo 1
-![image](https://github.com/guozhaolong/wfd/raw/master/example/snapshots/1.jpg)
-
-https://guozhaolong.github.io/wfd/
-
-## Online Demo 2
 ![image](https://github.com/guozhaolong/wfd/raw/master/example/snapshots/2.jpg)
 
 https://guozhaolong.github.io/wfd2-example/
